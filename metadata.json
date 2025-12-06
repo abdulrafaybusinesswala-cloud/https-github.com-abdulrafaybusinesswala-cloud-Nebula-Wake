@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Wake",
+  "description": "A smart, aesthetic alarm clock featuring AI-generated morning briefings to start your day with inspiration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
